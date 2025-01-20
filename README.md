@@ -1,6 +1,6 @@
 # Prodigy-Infotech-Data-Science-Task-2
 <br>
-<img src="https://github.com/kindo-tk/PRODIGY_DS_02/blob/main/ds2.png"   >
+<img src="https://github.com/shubhamraaj/Prodigy-Infotech-Data-Science-Task-2/blob/321f450da5296e020810f047eb364b01337ceaeb/Data%20Science%20Task%202.PNG"   >
 
 ## Introduction
 This repository contains the code and analysis for Task 2 of my Data Science internship at Prodigy Info Tech. For this task, I performed data cleaning and exploratory data analysis (EDA) on a dataset of my choice. I chose the Titanic dataset from Kaggle for this analysis.
